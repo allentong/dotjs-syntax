@@ -1,0 +1,26 @@
+{
+    "name": "dotjs",
+    "displayName": "dotjs-syntax",
+    "description": "DotJS Syntax Highlighting",
+    "version": "0.0.1",
+    "publisher": "allentong",
+    "engines": {
+        "vscode": "^1.0.0"
+    },
+    "categories": [
+        "Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "dotjs",
+            "aliases": ["doT", "dotjs"],
+            "extensions": [".dot"],
+            "configuration": "./dotjs.configuration.json"
+        }],
+        "grammars": [{
+            "language": "dotjs",
+            "scopeName": "text.html.dotjs",
+            "path": "./syntaxes/dotjs.tmLanguage"
+        }]
+    }
+}

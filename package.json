@@ -2,7 +2,8 @@
     "name": "dotjs",
     "displayName": "dotjs-syntax",
     "description": "DotJS Syntax Highlighting",
-    "version": "0.0.2",
+    "icon": "images/doTjs.png",
+    "version": "0.0.3",
     "publisher": "allentong",
     "engines": {
         "vscode": "^1.0.0"

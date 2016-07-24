@@ -13,7 +13,6 @@ PR are welcome (https://github.com/allentong/dotjs-syntax)
 ## Release Notes
 
 
-### 0.0.4
-
+### 0.0.6
 Initial release of doT.js Template highlghting
 

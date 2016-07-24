@@ -3,7 +3,7 @@
     "displayName": "dotjs-syntax",
     "description": "DotJS Syntax Highlighting",
     "icon": "images/doTjs.png",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "allentong",
     "engines": {
         "vscode": "^1.0.0"

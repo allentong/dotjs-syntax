@@ -1,4 +1,4 @@
-# doT.js 
+# doT.js ![alt tag](https://travis-ci.org/allentong/dotjs-syntax.svg?branch=master)
 
 The fastest + concise javascript template engine for Node.js and browsers.
 
